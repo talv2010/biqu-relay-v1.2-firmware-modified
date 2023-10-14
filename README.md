@@ -12,3 +12,9 @@ after shutdown can return to on state
 
 For uVision compiler setup use that video
 https://youtu.be/nHCjFw2TS4M?feature=shared
+
+microcontroller STC15W204S
+
+Keil C51 uVision https://www.keil.com/demo/eval/c51.htm
+
+STC ISP programming software (v6.91) https://www.stcmicro.com/rar/stc-isp6.91.rar
