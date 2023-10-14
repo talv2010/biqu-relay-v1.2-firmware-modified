@@ -10,6 +10,8 @@ shutdown delay is 30sec
 
 after turn off can return to on state
 
+only on/off function, without short circuit detection
+
 For uVision compiler setup use that video
 https://youtu.be/nHCjFw2TS4M?feature=shared
 
