@@ -8,7 +8,7 @@ startup delay is 60sec
 
 shutdown delay is 30sec
 
-after shutdown can return to on state
+after turn off can return to on state
 
 For uVision compiler setup use that video
 https://youtu.be/nHCjFw2TS4M?feature=shared
