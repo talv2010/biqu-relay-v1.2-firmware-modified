@@ -13,7 +13,7 @@ void main(void)
 {
 	P3M1 = 0xB4;
   P3M0 = 0xB4;
-	P5M0 = 0xFF;
+	P5M0 = 0xEA;
 	green_led=0x00;
 	red_led=0x00;
 	relay=0x00;
